@@ -1,0 +1,6 @@
+{
+  "name": "RUNVERSE - 3D Endless Runner Adventure",
+  "description": "An action-packed 3D endless runner adventure with cinematic procedural environments, 3-lane mechanics, an chasing mythic beast, missions, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
